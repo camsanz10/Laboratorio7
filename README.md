@@ -1,0 +1,1 @@
+Aplicación móvil hecha con Flutter y Supabase: una red social sencilla con muro de publicaciones. Cada persona crea su cuenta, escribe posts, da "me gusta" y puede subir su foto de perfil desde la galería. La foto aparece en el perfil y junto a cada uno de sus posts. Los posts también pueden llevar una imagen adjunta.
